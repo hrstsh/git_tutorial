@@ -7,3 +7,5 @@
   - git status
 - ファイルを登録する
   - git add
+- コミットの履歴を参照する
+  - git log
